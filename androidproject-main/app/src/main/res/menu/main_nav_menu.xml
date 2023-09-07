@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/group0" android:checkableBehavior="none">
+        <item
+            android:id="@+id/alarmTitle"
+            android:icon="@drawable/baseline_alarm_24"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:title="@string/notify_title"
+            />
+    </group>
+    <group android:id="@+id/group1" android:checkableBehavior="none">
+        <item
+            android:id="@+id/alarm1"
+            android:icon="@drawable/baseline_wb_sunny_24"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            app:actionViewClass="androidx.appcompat.widget.SwitchCompat"
+            android:visible="true"
+            android:title="아침"
+            />
+        <item
+            android:id="@+id/alarm2"
+            android:icon="@drawable/baseline_brightness_7_24"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            app:actionViewClass="androidx.appcompat.widget.SwitchCompat"
+            android:visible="true"
+            android:title="점심"
+            />
+        <item
+            android:id="@+id/alarm3"
+            android:icon="@drawable/baseline_nights_stay_24"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            app:actionViewClass="androidx.appcompat.widget.SwitchCompat"
+            android:visible="true"
+            android:title="저녁"
+            />
+        <item
+            android:id="@+id/alarm4"
+            android:icon="@drawable/ic_launcher_foreground"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            app:actionViewClass="androidx.appcompat.widget.SwitchCompat"
+            android:visible="false"
+            android:title="설정1"
+            />
+        <item
+            android:id="@+id/alarm5"
+            android:icon="@drawable/ic_launcher_foreground"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            app:actionViewClass="androidx.appcompat.widget.SwitchCompat"
+            android:visible="false"
+            android:title="설정2"
+            />
+    </group>
+    <group android:id="@+id/group6" android:checkableBehavior="single">
+        <item
+            android:id="@+id/messenger"
+            android:icon="@drawable/ic_launcher_foreground"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:title="@string/drawer_1"
+            />
+    </group>
+    <group android:id="@+id/group8" android:checkableBehavior="single">
+        <item
+            android:id="@+id/alarm"
+            android:icon="@drawable/ic_launcher_foreground"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:title="@string/drawer_4"
+            />
+    </group>
+    <group android:id="@+id/group10" android:checkableBehavior="single">
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/ic_launcher_foreground"
+            style="@style/TextAppearance.AppCompat.Widget.ActionBar.Title"
+            android:title="@string/drawer_6"
+            />
+    </group>
+</menu>

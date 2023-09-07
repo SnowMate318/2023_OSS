@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">AI</string>
+    <string name="google_login_client_id">a</string>
+
+    <string name="username">이름</string>
+    <string name="sex">성별</string>
+    <string name="man">남자</string>
+    <string name="woman">여자</string>
+    <string name="birth_date">생년월일</string>
+    <string name="significant">특이사항</string>
+    <string name="input_guide">정보를 입력해주세요</string>
+
+    <string name="drawer_opened">drawer_opened</string>
+    <string name="drawer_closed">drawer_closed</string>
+    <string name="drawer_1">대화하기</string>
+    <string name="drawer_2">상세정보 조회</string>
+    <string name="drawer_3">안부 설정하기</string>
+    <string name="drawer_4">알림 설정하기</string>
+    <string name="drawer_5">복용중인 약</string>
+    <string name="drawer_6"> 로그아웃</string>
+    <string name="take_photo">사진찍기</string>
+    <string name="apply">적용하기</string>
+    <string name="not_entered">복용 방법이 입력되지 않았습니다.</string>
+    <string name="chatbot_name">아이(ai)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="alarm_title">알람 설정하기</string>
+    <string name="input_hint">내용을 입력해주세요..</string>
+    <string name="notify_title">알림 시간</string>
+    <string name="info_button">상세정보 수정하기</string>
+    <string name="more_button">자세히 보기</string>
+    <string name="alarm_info">알람은 최대 5개까지 설정할 수 있습니다.</string>
+    <string name="title_activity_alert_dialog">AlertDialog</string>
+    <string name="title_activity_alarm_change">AlarmChange</string>
+    <string name="time">시간</string>
+    <string name="alarm_name">알람 이름</string>
+    <string name="alarm_title2">알람 제목</string>
+    <string name="alarm_content">알림 내용</string>
+    <string name="start_capture">capture</string>
+
+</resources>

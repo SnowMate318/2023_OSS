@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "106228442872",
+    "project_id": "aiproject-8e5e6",
+    "storage_bucket": "aiproject-8e5e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106228442872:android:ea19cb582df151c890fd0d",
+        "android_client_info": {
+          "package_name": "com.prac.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106228442872-k9b62g9efju8bj4frm2hp0t1p0fv1s98.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prac.ai",
+            "certificate_hash": "eb90faba5c15c2fd818205f82509f5f622c6d871"
+          }
+        },
+        {
+          "client_id": "106228442872-t8n0vn709khp8on088bta8s0spk22r27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prac.ai",
+            "certificate_hash": "804e6440fbbbeb2ef7309154b0f95dfbb6f7506a"
+          }
+        },
+        {
+          "client_id": "106228442872-fsdg14luol2lc9hvhq4sb8r4dk6045vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrlT3opIp_SiEH3_Jnle5ZpRaFk0XTqq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106228442872-0q9eoq1qhq9io5dglgfqo1rhv4ghed6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
